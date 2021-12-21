@@ -1,0 +1,34 @@
+img {
+    max-width: 40%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#main {
+    text-align: center;
+    justify-content: center;
+    display: block;
+}
+
+ul {
+    max-width: 650px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+}
+
+a {
+    font-style: none;
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
